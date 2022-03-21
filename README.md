@@ -4,7 +4,7 @@
 
 **Breve y simple de para que fue creado**
 
-:calendar: Frecuencia de publicación de los productos:
+:calendar: Frecuencia de publicación:
 
 - **Mensual?**:  
 - **Trimestral?**: 
