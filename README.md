@@ -4,6 +4,13 @@
 
 **Breve y simple de para que fue creado**
 
+:calendar: Frecuencia de publicación de los productos:
+
+- **Mensual?**:  
+- **Trimestral?**: 
+
+:globe_with_meridians: Se publican en: **www....**
+
 
 ## Contenidos :test_tube:
 
